@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Extraordinary</title>
+        <meta>
+    </head>
+    <body>
+        <h1>Extraordinary</h1>
+        <div>We are not alone.</div>
+        <div class="topnav">
+            <ul>
+                <li><a href="">Aliens</a></li>
+                <li><a href="">Cryptids</a></li>
+                <li><a href="">Treasure</a></li>
+                <li><a href="">Mysteries</a></li>
+                <li><a href="">Conspiracy</a></li>
+            </ul>
+        </div>
+        <div>
+            <h2>News</h2>
+            <p>Check out curent events and extraordinary news as it occurs throughout the world.</p>
+        </div>
+        <div>
+            <h3>UAP Oversight Committee</h3>
+        </div>
+        <div></div>
+        <div></div>
+    </body>
+</html>
